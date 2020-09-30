@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.main{
+	border: solid;
+	border-color: black;
+}
+.head{
+	height: 100px;
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 2px
+}
+.logo{
+	height: 100px;
+	width: 150px;
+}
+.paragrph{
+	border: solid;
+	border-color: white;
+}
+
+	}
+
+.foot{
+	font-size: 25px;
+	font-family: arial;
+}
